@@ -1,0 +1,18 @@
+# Exclude large raw CORD-19 public dataset (cite original source instead)
+metadata.csv
+pre_20_data.csv
+
+# Exclude processed/derived data
+04_filed_root.json
+08_node_split.json
+
+# Exclude empty file
+02_fail_list.txt
+
+# Exclude scripts (contains API key)
+05_conference_all.py
+
+# Exclude temporary files
+.tmp/
+__pycache__/
+*.pyc
