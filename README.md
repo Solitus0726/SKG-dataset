@@ -70,14 +70,14 @@ This dataset is made available under the [CC BY 4.0](https://creativecommons.org
 
 ## Citation
 
-If you use this dataset, please cite our paper:
+If you use this dataset, please cite it as follows:
 
 ```bibtex
-@article{SKG2025,
-  title     = {Skeleton Construction for Scientific Information System with Multi-View Graph Learning},
-  author    = {<authors>},
-  journal   = {Expert Systems with Applications},
-  year      = {2025},
-  note      = {Under review}
+@misc{SKG-dataset,
+  author       = {<authors>},
+  title        = {SKG-dataset: MAG Citation Network Raw Data for Scientific Skeleton Construction {[dataset]}},
+  year         = {2025},
+  publisher    = {GitHub},
+  url          = {https://github.com/Solitus0726/SKG-dataset}
 }
 ```
