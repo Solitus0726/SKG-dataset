@@ -67,17 +67,3 @@ All data were retrieved from the **Microsoft Academic Graph (MAG)** via its publ
 ## License
 
 This dataset is made available under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
-
-## Citation
-
-If you use this dataset, please cite it as follows:
-
-```bibtex
-@misc{SKG-dataset,
-  author       = {<authors>},
-  title        = {SKG-dataset: MAG Citation Network Raw Data for Scientific Skeleton Construction {[dataset]}},
-  year         = {2025},
-  publisher    = {GitHub},
-  url          = {https://github.com/Solitus0726/SKG-dataset}
-}
-```
